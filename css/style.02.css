@@ -1,0 +1,53 @@
+#redbull_original {
+    background-color: #1A2364;
+    color: #C5113A;
+    border-right: 15px solid #C5113A;
+}
+
+#redbull_white {
+    background-color: #F3F4F4;
+    color: #4691CF;
+    border-right: 15px solid #4691CF;
+}
+
+#redbull_green {
+    background-color: #1B953D;
+    color: #CD1782;
+    border-right: 15px solid #CD1782;
+}
+
+#redbull_seablue {
+    background-color: #1C6CB1;
+    color: #BE7FB0;
+    border-right: 15px solid #BE7FB0;
+}
+
+#redbull_yellow {
+    background-color: #E2D347;
+    color: #90765C;
+    border-right: 15px solid #90765C;
+}
+
+#redbull_blue {
+    background-color: #333684;
+    color: #81B8DF;
+    border-right: 15px solid #81B8DF;
+}
+
+#redbull_peach {
+    background-color: #D73379;
+    color: #DFE4EC;
+    border-right: 15px solid #DFE4EC;
+}
+
+#redbull_apricot {
+    background-color: #EE7C08;
+    color: #E52546;
+    border-right: 15px solid #E52546;
+}
+
+#redbull_ice {
+    background-color: #66C2CD;
+    color: #2589C0;
+    border-right: 15px solid #2589C0;
+}
